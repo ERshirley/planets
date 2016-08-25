@@ -1,8 +1,7 @@
 pluto is quite cold and really is a somewhat pointless rock in space. 
-<<<<<<< HEAD
 
 pluto isn't even a planet any more :(
-=======
+
 It has a moon and a heart-shaped patch.
 
->>>>>>> 86c9b7bb6c3ae7c0a0a5289b84f86753b5c037a1
+
